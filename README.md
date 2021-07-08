@@ -32,7 +32,9 @@ Low cost system for real-time monitoring of the water quality with the help of I
 >The system can monitor water quality automatically, and it is low in cost.
 
 >Only by replacing the corresponding sensors and changing the relevant software programs. 
+
 **Future Scope**
+
 1. Future work can be focused on system using more number of sensors.
 2. The system is with advantage such as low power consumption more flexible to deploy.
 3. In future this product can also be used to  fight against the pollution.
