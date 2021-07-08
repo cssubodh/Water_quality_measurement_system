@@ -17,9 +17,7 @@ Low cost system for real-time monitoring of the water quality with the help of I
 4.To provide better statistics by recording the data using cloud network
 
 **Block Diagram**
-x-special/nautilus-clipboard
-copy
-file:///media/subodh/usbGATE-EC/Doc278.docx
+
 
 
 
