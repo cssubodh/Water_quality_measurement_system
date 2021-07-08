@@ -19,6 +19,36 @@ Low cost system for real-time monitoring of the water quality with the help of I
 **Block Diagram**
 
 
+[Doc278.docx](https://github.com/cssubodh/Water_quality_measurement_system/files/6784371/Doc278.docx)
+
+
+
+
+
+
+
+ 
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+
+
+
+ 
 
 
 
